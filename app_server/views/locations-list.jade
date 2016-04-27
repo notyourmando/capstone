@@ -1,0 +1,31 @@
+extends layout
+
+block content
+  #banner.page-header
+    .row
+      .col-lg-6
+        h1 Freshness
+          small &nbsp;Find a local Farmers Market or grower near you!
+  .row
+    .col-xs-12.col-sm-8
+      .row.list-group
+        .col-xs-12.list-group-item
+          h4
+            a(href="/location") Logan Square Farmers Market
+            small &nbsp;
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star-empty
+              span.glyphicon.glyphicon-star-empty
+            span.badge.pull-right.badge-default 100m
+          p.address 3107 W. Logan Blvd.
+          p
+            span.label.label-warning Sundays
+            &nbsp;
+            span.label.label-warning May 15–October 30, 10am–3pm
+            &nbsp;
+            span.label.label-warning LINK accepted
+            &nbsp;
+    .col-xs-12.col-sm-4
+      p. Are you looking for fresh, local fruits and vegetables? How about some artisan cheese or freshly picked flowers? Freshness helps you find the nearest Farmers Market!
