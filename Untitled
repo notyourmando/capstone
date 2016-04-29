@@ -1,0 +1,43 @@
+db.locations.save({
+name: 'Chipotle',
+address: '125 High Street, Reading RG6 1PS',
+rating: 5,
+amenities: ['Street Parking', 'Food', 'LINK accepted'],
+coords: [-0.9690884, 51.455041],
+openingTimes: [{
+  days: 'Monday - Friday',
+  opening: '7:00am',
+  closing: '7:00pm',
+  closed: false
+}, {
+  days: 'Saturday',
+  opening: '8:00am',
+  closing: '5:00pm',
+  closed: false
+}, {
+  days: 'Sunday',
+  closed: true
+  }]
+})
+
+db.locations.update({
+name: 'Chipotle'
+}, {
+$push: {
+reviews: {
+  author: 'Armando Robledo',
+  id: ObjectId(),
+  rating: 5,
+  timestamp: new Date("Aug 22, 1980"),
+  reviewText: "What a great place"
+    }
+  }
+})
+
+mongodb://heroku_rn2gqlvs:bq7958ts3gps76un3rrrgi54pi@ds041150.mlab.com:41150/heroku_rn2gqlvs
+
+username: heroku_rn2gqlvs
+password: bq7958ts3gps76un3rrrgi54pi
+server: ds041150.mlab.com
+port: 41150
+db name: heroku_rn2gqlvs

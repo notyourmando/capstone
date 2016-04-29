@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 var gracefulShutdown;
 var dbFresh = 'mongodb://localhost/Freshness';
 if (process.env.NODE_ENV === 'production') {
-    dbFresh = process.env.MONGOLAB_URI;
+    dbFresh = process.env.MONGODB_URI;
 }
 
 mongoose.connect(dbFresh);
