@@ -40,7 +40,7 @@ var locationSchema = new mongoose.Schema({
         min: 0,
         max: 5
     },
-    amenities: [String],
+    facilities: [String],
     // Always store coordinates longitude, latitude order.
     coords: {
         type: [Number],
