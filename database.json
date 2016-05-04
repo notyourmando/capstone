@@ -1,0 +1,472 @@
+[{
+  "name"      : "Loyola University Chicago Farmers Market",
+  "address"   : "6540 N. Sheridan Rd.",
+  "dates"     : "June 6–September 19",
+  "day"       : "Mondays",
+  "hours"     : "3-7pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Federal Plaza Farmers Market",
+  "address"   : "Adams St. & Dearborn Pkwy.",
+  "dates"     : "May 17–October 25",
+  "day"       : "Tuesdays",
+  "hours"     : "7am-3pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Gary Comer Youth Center Farm Stand",
+  "address"   : "7256 S. Chicago Ave.",
+  "dates"     : "June 7-September 2",
+  "day"       : "Tuesdays",
+  "hours"     : "3-5:30pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Lincoln Square Farmers Market",
+  "address"   : "2301 W. Leland Ave.",
+  "dates"     : "June 7–October 25",
+  "day"       : "Tuesdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "PCC Farmers Market",
+  "address"   : "330 N. Lotus Ave.",
+  "dates"     : "June 7-October 25",
+  "day"       : "Tuesdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "SOAR Farmers Market",
+  "address"   : "MCA Plaza, 220 E. Chicago Ave.",
+  "dates"     : "June 7-October 25",
+  "day"       : "Tuesdays",
+  "hours"     : "7am-2pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Columbus Park Farmers Market",
+  "address"   : "Harrison St. & Central Ave.",
+  "dates"     : "June 28-September 27",
+  "day"       : "Tuesdays",
+  "hours"     : "2-7pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Wood Street Farm Stand by Growing Home",
+  "address"   : "5814 S. Wood St.",
+  "dates"     : "April 20–October 26",
+  "day"       : "Wednesdays",
+  "hours"     : "11am-4pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Green City Market",
+  "address"   : "1800 N. Clark St.",
+  "dates"     : "May 7–October 29",
+  "day"       : "Wednesdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Andersonville Farmers Market",
+  "address"   : "1500 W. Berwyn Ave.",
+  "dates"     : "May 11–October 19",
+  "day"       : "Wednesdays",
+  "hours"     : "3-8pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Ravenswood Farmers Market",
+  "address"   : "4900 N. Damen Ave.",
+  "dates"     : "May 25-September 14",
+  "day"       : "Wednesdays",
+  "hours"     : "4-8pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Growing Home Night Market at Kusanya Cafe",
+  "address"   : "825 W. 69th St.",
+  "dates"     : "June 1 & 15, July 6 & 20, August 3 & 17, September 7 & 21, October 5 & 19",
+  "day"       : "Wednesdays",
+  "hours"     : "4-6pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Edison Park Farmers Market",
+  "address"   : "6739 N. Northwest Highway",
+  "dates"     : "June-August",
+  "day"       : "Wednesdays",
+  "hours"     : "4-8pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Gary Comer Youth Center Farm Stand",
+  "address"   : "7256 S. Chicago Ave.",
+  "dates"     : "June 7-September 2",
+  "day"       : "Wednesdays",
+  "hours"     : "3-5:30pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "LaFollette Park Farmers Market",
+  "address"   : "1333 N. Laramie Ave.",
+  "dates"     : "June 29–September 28",
+  "day"       : "Wednesdays",
+  "hours"     : "2-7pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Pullman Farmers Market",
+  "address"   : "111th St. & Cottage Grove Ave.",
+  "dates"     : "July 6–October 26",
+  "day"       : "Wednesdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Chicago Botanic Garden’s Windy City Harvest Lawndale Market",
+  "address"   : "3750 W. Ogden Ave.",
+  "dates"     : "July 6–October 5",
+  "day"       : "Wednesdays",
+  "hours"     : "9am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Chicago Botanic Garden’s Windy City Harvest Washington Park Market",
+  "address"   : "555 E. 51st St.",
+  "dates"     : "July 6–October 5",
+  "day"       : "Wednesdays",
+  "hours"     : "9am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Seaway Bank Farmers Market",
+  "address"   : "87th St. & Langley Ave.",
+  "dates"     : "July 20–September 21",
+  "day"       : "Wednesdays",
+  "hours"     : "9am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Daley Plaza Farmers Markets",
+  "address"   : "50 W. Washington St.",
+  "dates"     : "May 12-October 27",
+  "day"       : "Thursdays",
+  "hours"     : "7am-3pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Hyde Park Farmers Market",
+  "address"   : "53rd St. & Harper Ct.",
+  "dates"     : "June 2–October 27",
+  "day"       : "Thursdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Lincoln Square Evening Farmers Market",
+  "address"   : "2301 W. Leland Ave.",
+  "dates"     : "June 9–October 27",
+  "day"       : "Thursdays",
+  "hours"     : "4-8pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Low-Line Farmers Market",
+  "address"   : "3411 N. Southport Ave.",
+  "dates"     : "June 7-September 2",
+  "day"       : "Thursdays",
+  "hours"     : "3-8pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Eli's Cheesecake Farm Stand and Fresh Market",
+  "address"   : "6701 W. Forrest Preserve Dr.",
+  "dates"     : "June 16-August 25",
+  "day"       : "Thursdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "South Loop Farmers Market",
+  "address"   : "1936 S. Michigan Ave.",
+  "dates"     : "June 16–September 29",
+  "day"       : "Thursdays",
+  "hours"     : "4-8pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Weiss Uptown Farmers Market",
+  "address"   : "4646 N. Marine Dr.",
+  "dates"     : "June 23–October 27",
+  "day"       : "Thursdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Argyle Night Market",
+  "address"   : "Argyle St. btwn. Kenmore & Sheridan Rd.",
+  "dates"     : "July 7–September 1",
+  "day"       : "Thursdays",
+  "hours"     : "5-9pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Willis Tower Farmers Market",
+  "address"   : "233 S. Wacker Dr.",
+  "dates"     : "July 14–October 13",
+  "day"       : "Thursdays",
+  "hours"     : "7am-3pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Austin Town Hall Farmers Market",
+  "address"   : "Lake St. & Central Ave.",
+  "dates"     : "July 30–September 29",
+  "day"       : "Thursdays",
+  "hours"     : "2-7pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "IMAN Fresh Beats and Eats Farmers Market",
+  "address"   : "2744 W. 63rd St.",
+  "dates"     : "May 22–October 30",
+  "day"       : "Fridays",
+  "hours"     : "2-6pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "The Sidetrack Saturday Market",
+  "address"   : "3349 N. Halsted St.",
+  "dates"     : "May 6-October 8",
+  "day"       : "Saturdays",
+  "hours"     : "1-4pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Green City Market",
+  "address"   : "1800 N. Clark St.",
+  "dates"     : "May 7–October 29",
+  "day"       : "Saturdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "61st Street Farmers Market",
+  "address"   : "6100 S. Blackstone Ave.",
+  "dates"     : "May 14–October 29",
+  "day"       : "Saturdays",
+  "hours"     : "9am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Division Street Farmers Market",
+  "address"   : "Division St. & Dearborn Pkwy.",
+  "dates"     : "May 14–October 29",
+  "day"       : "Saturdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Back of the Yards Community Market at the Plant",
+  "address"   : "1400 W. 46th St.",
+  "dates"     : "June 4-September 10",
+  "day"       : "Saturdays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "El Conuco Farmers Market at Humboldt Park",
+  "address"   : "California Ave. & Division St.",
+  "dates"     : "June 12–October 16",
+  "day"       : "Saturdays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Green City Market West Loop",
+  "address"   : "211 S. Peoria St.",
+  "dates"     : "June 4–October 29",
+  "day"       : "Saturdays",
+  "hours"     : "8am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Horner Park Farmers Market",
+  "address"   : "2741 W. Montrose Ave.",
+  "dates"     : "June 4–October 1",
+  "day"       : "Saturdays",
+  "hours"     : "9am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "PCC Farmers Market",
+  "address"   : "330 N. Lotus Ave.",
+  "dates"     : "June 7-October 25",
+  "day"       : "Saturdays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Edgewater Farmers Market",
+  "address"   : "1200 W. Norwood Ave.",
+  "dates"     : "June 11–August 20",
+  "day"       : "Saturdays",
+  "hours"     : "8am-1pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Lincoln Park Farmers Market",
+  "address"   : "Armitage Ave. & Orchard St.",
+  "dates"     : "June 18–October 29",
+  "day"       : "Saturdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Healthy Food Hub at South Shore Good Foods Market",
+  "address"   : "2423 E. 75th St.",
+  "dates"     : "June 7-September 2",
+  "day"       : "Yearly",
+  "hours"     : "11am-3pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Edgebrook Neighborhood Farmers Market",
+  "address"   : "6525 N. Hiawatha Ave.",
+  "dates"     : "July 2-October 1",
+  "day"       : "Saturdays",
+  "hours"     : "9am-1pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Garfield Park Community Market",
+  "address"   : "200 N. Kedzie Ave",
+  "dates"     : "July 9, August 13, September 10, October 8",
+  "day"       : "Saturdays",
+  "hours"     : "10am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Englewood/Anchor House Farmers Market",
+  "address"   : "76th St. & Racine Ave.",
+  "dates"     : "June 25–October 1",
+  "day"       : "Saturdays",
+  "hours"     : "8am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "North Center Farmers Market",
+  "address"   : "4100 N. Lincoln Ave.",
+  "dates"     : "June 25–October 29",
+  "day"       : "Saturdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Printers Row Farmers Market",
+  "address"   : "Polk St. & Dearborn St.",
+  "dates"     : "June 25–October 29",
+  "day"       : "Saturdays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "West Humboldt Park Farmers Market",
+  "address"   : "3601 W. Chicago Ave.",
+  "dates"     : "July 25–September 17",
+  "day"       : "Saturdays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "95th Street Farmers Market",
+  "address"   : "95th St. & Longwood Dr.",
+  "dates"     : "May 8–October 30",
+  "day"       : "Sundays",
+  "hours"     : "7am-1pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Logan Square Farmers Market",
+  "address"   : "3107 W. Logan Blvd.",
+  "dates"     : "May 15–October 30",
+  "day"       : "Sundays",
+  "hours"     : "10am-3pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Pilsen Community Market",
+  "address"   : "1800 S. Halsted St.",
+  "dates"     : "May 29–October 30",
+  "day"       : "Sundays",
+  "hours"     : "9am-2pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Jefferson Park Farmers Market",
+  "address"   : "4820 N. Long Ave.",
+  "dates"     : "Every 2nd & 4th Sunday: June 2-October 23",
+  "day"       : "Sundays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Glenwood Sunday Market",
+  "address"   : "6950 N. Morse Ave.",
+  "dates"     : "June 5–October 30",
+  "day"       : "Sundays",
+  "hours"     : "9am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Portage Park Farmers Market",
+  "address"   : "Berteau Ave. & Central Ave.",
+  "dates"     : "June 5–October 2",
+  "day"       : "Sundays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card NOT accepted"
+},
+{
+  "name"      : "Wicker Park Farmers Market",
+  "address"   : "1425 N. Damen Ave.",
+  "dates"     : "June 5–October 30",
+  "day"       : "Sundays",
+  "hours"     : "8am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "El Conuco Farmers Market at Humboldt Park",
+  "address"   : "California Ave. & Division St.",
+  "dates"     : "June 12–October 16",
+  "day"       : "Sundays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "Independence Park Farmers Market",
+  "address"   : "Irving Park Rd. (4000 N) & Springfield Ave. (3900 W)",
+  "dates"     : "Every 2nd & 4th Sunday: June 12-October 23",
+  "day"       : "Sundays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "McKinley Park Farmers Market",
+  "address"   : "3705 S. Archer Ave.",
+  "dates"     : "July 10-September 25",
+  "day"       : "Sundays",
+  "hours"     : "10am-2pm",
+  "facilities": "LINK card accepted"
+},
+{
+  "name"      : "South Shore Farmers Market",
+  "address"   : "79th St. & South Shore Dr.",
+  "dates"     : "July 10–October 2",
+  "day"       : "Sundays",
+  "hours"     : "12-5pm",
+  "facilities": "LINK card accepted"
+}]
