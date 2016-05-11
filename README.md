@@ -21,4 +21,4 @@ Since I needed more practice with backend and the full stack in general, I decid
 - I got the database created, but wasn't able to getting it connecting correctly.
 - I was also not able to get the geolocator working.
 - Angular still needs to be implemented.
-- Nasal conjestion is still a problem.
+
